@@ -1,10 +1,14 @@
+<h1 align="center">Prediction of Movies popularity Using Machine Learning.</h1>
+
+</br>
+
 <div align="Right">
-    진행 기간: 2022.05.20-2022.05.26
+    진행 기간: 2022.05.20. - 2022.06.14.
     </br>
     </br>
-    작성 일자: 2022.05.27
+    작성 일자: 2022.05.27.
     </br>
-    수정 일자: 2022.06.14
+    수정 일자: 2022.08.12.
     </br>
     </br>
     박덕용 
